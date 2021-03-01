@@ -2,7 +2,7 @@
 
 ## Utilizes New York Times news API
 
-![screenshot]()
+![screenshot](https://github.com/anhsirk0/news-cli/blob/master/screenshot.png)
 
 ## Usage
 ```bash
